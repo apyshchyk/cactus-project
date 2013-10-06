@@ -29,7 +29,7 @@
 <link href="css/example.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-<h2>Struts Examples with Code</h2>
+<h2>Struts Examples with Code  (Test for Jenkins Build)</h2>
 <p>This is a collection of examples which demonstrate some of the more frequently
   used Struts Tags. Familiarity with the Java(tm) Programming Language and HTML
   is assumed. </p>
