@@ -33,6 +33,7 @@
 <p>This is a collection of examples which demonstrate some of the more frequently
   used Struts Tags. Familiarity with the Java(tm) Programming Language and HTML
   is assumed. </p>
+  
 <p>To navigate your way through the examples, the following icons will help: </p>
 <table border="0" cellspacing="5" width="85%" >
   <tr valign="top">
